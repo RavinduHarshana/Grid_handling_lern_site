@@ -92,3 +92,34 @@ p{
     grid-row: span 2;
 
 }
+
+
+.our_story{
+    display: flex;
+    flex-direction: column;
+    margin-top: 600px;
+    padding: 0rem 5rem;
+    gap: 2rem;
+}
+
+
+.btn-sec{
+  display: flex;
+  gap: 3rem;
+}
+
+button{
+    padding: 15px 50px;
+    border-radius: 100px;
+    background-color: #65e4a3;
+    border: none;
+    border-color: #65e4a3;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.button-new{
+    background-color: #fff;
+    border: solid #65e4a3 2px;
+
+}
