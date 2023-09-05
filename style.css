@@ -123,3 +123,26 @@ button{
     border: solid #65e4a3 2px;
 
 }
+
+.main_num{
+    padding: 4rem 5rem;
+    margin-top: 3rem;
+    text-align: center;
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    background-color:#233e50;
+    color: #fff;
+   
+}
+
+.count{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-evenly   ;
+}
+
+.data_child h3{
+    color: #65e4a3;
+
+}
