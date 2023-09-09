@@ -158,3 +158,30 @@ button{
     margin-top: 2rem;
 
 }
+
+
+/* Our team image */
+
+.ourteamimg{
+    padding: 4rem 5rem;
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #0a2640;
+    color: #fff;
+}
+.imgcards{
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    /* width: 60%; */
+    background-color:#233e50;
+    gap: 4rem;
+    border-radius: 2rem;
+    color: #fff;
+    padding: 2rem;
+}
