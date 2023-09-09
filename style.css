@@ -92,7 +92,7 @@ p{
     grid-row: span 2;
 
 }
-
+/* Our story */
 
 .our_story{
     display: flex;
@@ -144,5 +144,17 @@ button{
 
 .data_child h3{
     color: #65e4a3;
+
+}
+
+.ourteam{
+    padding: 4rem 5rem;
+}
+
+.imgmain{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    margin-top: 2rem;
 
 }
