@@ -185,3 +185,18 @@ button{
     color: #fff;
     padding: 2rem;
 }
+footer{
+    padding: 4rem 5rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.leftcon{
+    width: 40%;
+}
+.rightcon{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
